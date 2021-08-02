@@ -9,7 +9,7 @@
   
   <br>
   
-##Usage: To see all the potential usage of my codign abilities.
+##Usage: To see all the potential usage of my coding abilities.
  
   <br>
   
