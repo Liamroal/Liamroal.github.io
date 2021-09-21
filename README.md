@@ -5,19 +5,19 @@
   
   <br>
   
-##Installation: N/A
+## Installation: N/A
   
   <br>
   
-##Usage: To see all the potential usage of my coding abilities.
+## Usage: To see all the potential usage of my coding abilities.
  
   <br>
   
-##Support: Liamroal @ Github 
+## Support: Liamroal @ Github 
   
   <br>
   
-##Roadmap: Constant changes. Dec2021 
+## Roadmap: Constant changes. Dec2021 
  
   <br>
   
